@@ -1,0 +1,3 @@
+CREATE SCHEMA [cdc]
+AUTHORIZATION [cdc]
+GO
